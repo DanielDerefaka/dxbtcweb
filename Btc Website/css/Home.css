@@ -1,0 +1,444 @@
+.sp1 {
+    background-color: rgb(57, 56, 56);
+    color: #ffffff;
+    width: 100%;
+    height: auto;
+
+}
+
+.sp1 a {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+.nv {
+    background-color: black;
+    overflow: hidden;
+
+}
+
+.nv a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+
+}
+.nv a:hover{
+    color: blue;
+
+}
+.nv a.active{
+   border-bottom: solid rgb(255, 255, 255) 3px;
+
+}
+
+.ul1 {
+    float: right;
+    margin-right: 2%;
+}
+
+li {
+    display: inline;
+}
+
+.nv2 {
+    background-color: rgb(0, 21, 255);
+    overflow: hidden;
+}
+
+.nv2 a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+.img {
+    float: left;
+    margin-left: 2%;
+    width: 50px;
+    height: auto;
+}
+
+.img1 {
+    width: 100%;
+    height: 20%;
+}
+
+.con1 {
+    background-color: rgb(241, 241, 241);
+    padding: 50px;
+    ;
+}
+
+.t1 {
+    background-color: red;
+    width: 40%;
+    height: 10%;
+    /* margin-left: 30%; */
+    float: right;
+    box-shadow: black 8px 8px;
+}
+
+table,
+tr,
+td,
+th {
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    width: 100px;
+    font-size: 20px;
+    color: white;
+}
+
+table {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.tx {
+    width: 50%;
+}
+
+.butt1 {
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    border: 0px;
+    margin-left: 5%;
+}
+
+.butt1 a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Service Section Code */
+.sr {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.bo {
+    border-bottom: 4px solid rgb(0, 0, 0);
+    width: 60px;
+    border-radius: 3px;
+    margin-left: 47%;
+}
+
+.sr2 {
+    width: 30%;
+    height: 20%;
+    text-align: center;
+
+
+}
+
+.sr3 {
+    width: 30%;
+    height: 20%;
+    margin-left: 5%;
+    text-align: center;
+}
+
+.sr4 {
+    width: 20%;
+    height: 20%;
+    margin-right: 0%;
+    margin-left: 7%;
+    text-align: center;
+}
+
+.im {
+    width: 30%;
+}
+
+.im2 {
+    width: 30%;
+}
+
+.im3 {
+    width: 30%;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    margin-top: 2%;
+}
+
+/* About Css File */
+.wr {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 0%;
+}
+
+.wr2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 0%;
+}
+
+.ic2 {
+    width: 35%;
+    height: 20%;
+    margin-left: 10%;
+
+}
+
+.ic3 {
+    width: 35%;
+    height: 20%;
+    margin-left: 10%;
+    margin-right: 40%;
+
+}
+
+.butt2 {
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: rockwell;
+    font-size: 20px;
+    border: 0px;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.butt2 a {
+    color: white;
+    text-decoration: none;
+}
+
+.butt-holder {
+    margin-left: 35%;
+}
+
+.container2 {
+    display: flex;
+    margin-top: 4%;
+}
+
+.im3 {
+    width: 10%;
+    height: 10%;
+    margin-left: 5%;
+}
+
+.im4 {
+    width: 7%;
+    height: 7%;
+    margin-left: 5%;
+
+}
+
+/* Product Css */
+.container3 {
+    display: flex;
+    margin-top: 0%;
+    margin-left: 5%;
+
+}
+
+.tt {
+    margin-left: 2%;
+    font-family: rockwell;
+
+}
+
+.tt2 {
+    margin-left: 12%;
+    font-family: rockwell;
+}
+
+.tt3 {
+    margin-left: 11%;
+    font-family: rockwell;
+}
+
+.tt4 {
+    margin-left: 11%;
+    font-family: rockwell;
+}
+
+.tt5 {
+    margin-left: 11%;
+    font-family: rockwell;
+}
+
+.tt6 {
+    margin-left: 11%;
+    font-family: rockwell;
+}
+
+.butt3 {
+    background-color: rgb(0, 38, 255);
+    color: white;
+    border-radius: 20px;
+    padding: 11px;
+    font-family: rockwell;
+    font-size: 17px;
+    border: 0px;
+    margin-left: 20%;
+    margin-top: 1%;
+
+}
+
+.butt4 {
+    background-color: rgb(0, 38, 255);
+    color: white;
+    border-radius: 20px;
+    padding: 11px;
+    font-family: rockwell;
+    font-size: 17px;
+    border: 0px;
+    margin-left: 34%;
+    margin-top: 1%;
+}
+
+.butt3 a {
+    color: white;
+    text-decoration: none;
+}
+
+.butt4 a {
+    color: white;
+    text-decoration: none;
+}
+
+.p1-holder {
+    margin-top: 5%;
+}
+
+.p1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 15%;
+
+}
+
+.p2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 20%;
+
+}
+
+.container3 {
+    display: flex;
+    margin-top: 0%;
+    margin-left: 5%;
+
+}
+
+/* Contact Us Css */
+
+.img2 {
+    position: relative;
+    text-align: center;
+
+}
+
+.dn {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: rockwell;
+}
+
+.dn2 {
+    position: absolute;
+    top: 47%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin-left: 15%;
+    font-family: rockwell;
+    font-size: 17px;
+}
+.cl{
+    width: 50%;
+    background-color: white;
+    padding: 30%;
+    margin-top: 2%;
+}
+.name {
+    border: none;
+    border-bottom: solid black 2px;
+    width: 50%;
+    padding: 10px;
+    border-radius: 2%;
+    margin-left: 20%;
+    margin-bottom: 4%;
+}
+.name2 {
+    border: solid black 2px;;
+    width: 45%;
+    padding: 20px;
+    border-radius: 2%;
+    margin-left: 20%;
+    margin-bottom: 4%;
+}
+.butt5 {
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: rockwell;
+    font-size: 20px;
+    border: 0px;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+.butt5 a {
+    color: white;
+    text-decoration: none;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 3%;
+    display: block;
+    color: black;
+    display: flex;
+}
+.sr2a {
+    width: 30%;
+    height: 20%;
+    text-align: justify;
+    color: white;
+    
+}
+.sr2a a{
+    text-decoration: none;
+    color: white;
+}
+
+.sr3a {
+    width: 40%;
+    margin-left: 5%;
+    text-align: justify;
+    color: white;
+}
+
+.sr4a {
+    width: 30%;
+    height: 20%;
+    font-size: 16px;
+    margin-left: 5%;
+    text-align: justify;
+    color: white;
+}
+.sr3a a{
+    text-decoration: none;
+    color: white;
+
+}
